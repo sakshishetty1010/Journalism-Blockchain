@@ -1,4 +1,5 @@
-# Journalism---Blockchain
+# Soochna : A decentralised blockchain network
+
 ## Landing page where you can view all the articles uploaded on the blockchain network
 ![image](https://user-images.githubusercontent.com/65352420/152474979-37e7beb4-07c1-4c9b-8c57-9c17aa2480e3.png)
 
